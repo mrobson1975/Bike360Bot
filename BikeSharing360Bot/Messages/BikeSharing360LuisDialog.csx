@@ -14,7 +14,7 @@ using System.Collections.Generic;
 
 
 [Serializable]
-[LuisModel("_YourModelId_", "_YourSubscriptionKey_")]
+[LuisModel("f98f2a63-3268-43ec-8ab0-974382a1cdcd", "48639578374586028277393498365732")]
 public class BikeSharing360LuisDialog : LuisDialog<object>
 {
     private const string EntityDateTime = "builtin.datetime.time";
